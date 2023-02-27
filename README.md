@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Governmentmf
+- 👋 Hi, I’m Justin Lee Edwards
 - 👀 I’m interested in HTML CSS and Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything
